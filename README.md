@@ -1,0 +1,2 @@
+# kruskalsAlgorithm
+Kruskals algorithm implementation
